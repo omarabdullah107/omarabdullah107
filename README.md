@@ -7,7 +7,7 @@
 - 📫 How to reach me:-
   - Email: mromar502@hotmail.com
   - LinkedIn: https://www.linkedin.com/in/omar-abdullah-157559251/
-  - NPM: omarabdullah107
+  - NPM: https://www.npmjs.com/~omarabdullah107
 - 
 
 <!---
