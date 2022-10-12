@@ -3,7 +3,7 @@
 - 🌱 I’m currently:-
   - Taking courses related to my majors of SWR & Data science.
   - learning new tools and technologies related to SWE & Data science.
-  - working on my bachelor thesis about the case for or against monorepo(it might be published later on).
+  - working on my bachelor thesis about the case for or against monorepo.
 - 📫 How to reach me:-
   - Email: mromar502@hotmail.com
   - LinkedIn: https://www.linkedin.com/in/omar-abdullah-157559251/
