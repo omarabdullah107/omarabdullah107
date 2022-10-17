@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Abdullah</h1>
-<h3 align="center">I’m interested in computer science --> (software engineering) and (Data science) to be specific and I love security too, not my profession though.</h3>
+<h3 align="center">I’m a software engineer and Data science programmer.</h3>
 
 - 🌱 I’m currently: -
      - Taking courses related to my majors of SWR & Data science.
@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-abdullah-157559251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-abdullah-157559251/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/omar.abdallah.39948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.abdallah.39948" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/omarabdullah107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/omarabdullah107/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-abdullah-157559251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-abdullah-157559251/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/omar.abdallah.39948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.abdallah.39948" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omarabdullah107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/omarabdullah107/" height="30" width="40" /></a>
 <a href="https://discord.gg/omarabdullah107#7063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omarabdullah107#7063" height="30" width="40" /></a>
 </p>
 
