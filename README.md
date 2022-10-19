@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Abdullah</h1>
-<h3 align="center">I’m a software engineer and Data science programmer.</h3>
+<h3 align="center">I’m a software engineer and data science programmer.</h3>
 
 - 🌱 I’m currently: -
      - Taking courses related to my majors of SWR & Data science.
