@@ -2,11 +2,7 @@
 <h3 align="center">I’m a software engineer and data science programmer.</h3>
 
 - 🌱 I’m currently: -
-     - Taking courses related to my majors of SWR & Data science.
      - Learning new tools and technologies related to SWE & Data science.
-     - Working on my bachelor thesis about the case for or against monorepo.
-     - Working on data base programming project related to indexing.
-     - Working on data engineering simple projects related to data visualization... .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
