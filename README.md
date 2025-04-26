@@ -5,8 +5,7 @@
      - Learning new tools and technologies related to SWE & Data science.
  
 
-<h3 align="left">Career</h3>
-//TODO
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
