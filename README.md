@@ -21,6 +21,8 @@
 <a href="https://www.facebook.com/omar.abdallah.39948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.abdallah.39948" height="30" width="40" /></a>
 <a href="https://www.instagram.com/omarabdullah107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/omarabdullah107/" height="30" width="40" /></a>
 </p>
+<br>
+✉️ Email: omarabdullah5022@gmail.com
 
 
 <br>
